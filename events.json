@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "starred_at": "2026-10-28T15:40:00Z"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "starred_at": "2026-10-14T09:15:00Z"
+  },
+  {
+    "repository": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "starred_at": "2026-09-30T18:05:00Z"
+  }
+]
